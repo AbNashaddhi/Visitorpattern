@@ -1,0 +1,6 @@
+c:\users\nc185147\onedrive - ncr corporation\documents\visual studio 2015\Projects\Visitor Pattern\Visitor Pattern\bin\Debug\Visitor Pattern.exe.config
+c:\users\nc185147\onedrive - ncr corporation\documents\visual studio 2015\Projects\Visitor Pattern\Visitor Pattern\bin\Debug\Visitor Pattern.exe
+c:\users\nc185147\onedrive - ncr corporation\documents\visual studio 2015\Projects\Visitor Pattern\Visitor Pattern\bin\Debug\Visitor Pattern.pdb
+c:\users\nc185147\onedrive - ncr corporation\documents\visual studio 2015\Projects\Visitor Pattern\Visitor Pattern\obj\Debug\Visitor Pattern.csprojResolveAssemblyReference.cache
+c:\users\nc185147\onedrive - ncr corporation\documents\visual studio 2015\Projects\Visitor Pattern\Visitor Pattern\obj\Debug\Visitor Pattern.exe
+c:\users\nc185147\onedrive - ncr corporation\documents\visual studio 2015\Projects\Visitor Pattern\Visitor Pattern\obj\Debug\Visitor Pattern.pdb
